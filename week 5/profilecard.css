@@ -1,0 +1,55 @@
+#hero{
+  border:none;
+  background-color: royalblue;
+  border-radius:10px;
+  text-align: center;
+  color:white;
+  padding:10px;
+}
+.card{
+  border:none;
+  background-color: white;
+  border-radius: 10px;
+}
+body{
+  background-color: lightgray;
+}
+table{
+  padding:20px;
+  width:100%;
+  border-collapse: collapse;
+  
+}
+h2{
+  padding:15px 0px 0px 15px;
+}
+th{
+  background-color: royalblue;
+  text-align: left;
+  color:white;
+  padding:15px;
+  text-decoration: none;
+}
+td{
+  border-bottom: 1px solid lightgray;
+  padding:15px;
+}
+p{
+  text-align: left;
+  padding-left:15px;
+}
+button{
+  margin:15px;
+  color:white;
+  background-color:royalblue;
+  padding:7px 15px;
+  border-radius:8px;
+  border:0;
+  font-size: 1rem;
+}
+#first{
+  text-align: center;
+}
+*{
+  box-sizing: border-box;
+}
